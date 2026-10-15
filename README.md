@@ -192,7 +192,7 @@ supershop-management/
 ├── tsconfig.node.json
 ├── vercel.json
 ├── vite.config.ts
-├── screenshots/                     → README images
+├── screenshot/                     → README images
 │   ├── login.jpeg
 │   ├── dashboard.jpeg
 │   ├── requisition.jpeg
@@ -208,16 +208,21 @@ supershop-management/
 📸 Screenshots
 🔐 Login Page & 📊 Dashboard
 
-<p align="center"> <img src="screenshots/login.jpeg" width="48%"> <img src="screenshots/dashboard.jpeg" width="48%"> </p>
-📝 Employee Requisition & 📈 Report
+<p align="center"> <img src="screenshot/login.jpeg" width="48%"> <img src="screenshot/dashboard.jpeg" width="48%"> </p>
+📝 Employee Requisition & Pending Requisition
 
-<p align="center"> <img src="screenshots/requisition.jpeg" width="48%"> <img src="screenshots/report.jpeg" width="48%"> </p>
+<p align="center"> <img src="screenshot/requisition.jpeg" width="48%"> <img src="screenshot/pendingRequisition.jpeg" width="48%"> </p>
 🛒 Purchase Order & 📋 Comparative Statement
 
-<p align="center"> <img src="screenshots/purchase-order.jpeg" width="48%"> <img src="screenshots/comparative-statement.jpeg" width="48%"> </p>
-🏭 GRN — Goods Receipt with QC
+<p align="center"> <img src="screenshot/purchase-order.jpeg" width="48%"> <img src="screenshot/comparative-statement.jpeg" width="48%"> </p>
 
-<p align="center"> <img src="screenshots/grn.jpeg" width="95%"> </p>
+📈 Report
+
+<p align="center"> <img src="screenshot/report.jpeg" width="95%"> <img src="screenshot/report_po.jpeg" width="48%"> </p> 
+
+[🏭 GRN — Goods Receipt with QC
+
+<p align="center"> <img src="screenshot/grn.jpeg" width="95%"></p>](url)
 ---
 
 ## 🎨 Design System
