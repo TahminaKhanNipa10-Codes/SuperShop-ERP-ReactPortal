@@ -218,7 +218,7 @@ supershop-management/
 
 📈 Report
 
-<p align="center"> <img src="screenshot/report.jpeg" width="95%"> <img src="screenshot/report_po.jpeg" width="48%"> </p> 
+<p align="center"> <img src="screenshot/report.jpeg" width="48%"> <img src="screenshot/report_po.jpeg" width="48%"> </p> 
 
 [🏭 GRN — Goods Receipt with QC
 
